@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(0, 0, 0);
+
+}
+
+.cabecaMenu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    width: 1850px;
+    height: 350px;
+
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+
+}
+
+img {
+    border-radius:1000px;
+    padding: 0;
+    margin: 0
+}
+
+.p {
+    text-align: center;
+
+}
+
+.contato {
+
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding-left: 300px;
+    padding-right: 300px;
+    align-items: flex-end;
+
+}
+
+footer {
+    position: relative;
+
+}
+
+.titulo {
+    padding-left: 100px;
+    padding-right: -300px;
+
+}
+
+.btHome{
+    width: 500px;
+}
+
+.sobre_mim {
+    background-color: black;
+
+}
+
+.conhecimento {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.ooo{
+    display:block;
+    justify-content: center;
+    align-items: center;
+
+}
